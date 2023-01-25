@@ -20,4 +20,4 @@ The following descrides steps you can use to instal required tools for the train
 
 
 ###Reader
-[carpentries resources]( https://github.com/signup?source=login)
+- [carpentries resources]( https://github.com/signup?source=login)
