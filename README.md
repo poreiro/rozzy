@@ -19,5 +19,5 @@ The following descrides steps you can use to instal required tools for the train
 - How can I edit files?
 
 
-Reader
-. [biochemitry]( https://github.com/signup?source=login)
+###Reader
+[carpentries resources]( https://github.com/signup?source=login)
